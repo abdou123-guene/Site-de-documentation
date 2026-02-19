@@ -5,3 +5,4 @@ En géomatique, une donnée n’existe vraiment que si l’on sait d’où elle 
 Les sources de données définissent le quoi (contenu, étendue, précision, fréquence de mise à jour). Les métadonnées assurent le comment et le pourquoi (provenance, qualité, méthodes, droits).
 
 Bien gérés, ces deux volets rendent les projets traçables, comparables et réutilisables, et réduisent les coûts cachés (temps perdu, doublons, erreurs d’analyse).
+2) 
