@@ -1,4 +1,4 @@
-site_name: Plateforme de documentation Géomatique
+site_name: Ma deuxieme plateforme
 
 theme:
   name: readthedocs
@@ -6,6 +6,7 @@ theme:
 nav:
   - Accueil: index.md
   - Source de données à AUDC: Readme.md
+
 
 
 
